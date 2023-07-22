@@ -85,16 +85,16 @@ Key column variables in the dataset include:
 ------------------------------------------
 
 3. Root Cause Analysis Process
-The Analysis is aimed to play an important role in the regular HR data evaluation and is presented from the perspective of an HR Management Report.
-The Analysis serves the purpouse of answering the following questions:
-- What is the distribiution of employees and employees salaries per region, country, city, department, job role?
-- How many job roles are there in the company and what are salaries linked to them?
-- Which 10 employees have maximum and minimum salaries?
-- Which employees are best paid in their departments and what is their job role?
-- Who are the employees who are paid higher salary than an average salary per region?
-- Is the seniority (length of being hired) in the company correlated with higher salary average?
-- Is the data complete (no empty cells) and errorproof?
-- Family dependants and what is their relationship with company employees? 
+- The Analysis is aimed to play an important role in the regular HR data evaluation and is presented from the perspective of an HR Management Report.
+- The Analysis serves the purpouse of answering the following questions:
+  - What is the distribiution of employees and employees salaries per region, country, city, department, job role?
+  - How many job roles are there in the company and what are salaries linked to them?
+  - Which 10 employees have maximum and minimum salaries?
+  - Which employees are best paid in their departments and what is their job role?
+  - Who are the employees who are paid higher salary than an average salary per region?
+  - Is the seniority (length of being hired) in the company correlated with higher salary average?
+  - Is the data complete (no empty cells) and errorproof?
+  - Family dependants and what is their relationship with company employees? 
 
 ------------------------------------------
 
