@@ -1,5 +1,7 @@
 SQL Portfolio Project: HR Management Report
 
+------------------------------------------
+
 Table of contents:
 1. Overview
 2. Dataset
@@ -13,6 +15,7 @@ Table of contents:
 1. Overview
 This project revolves around Workforce Overview Analysis in a mid-sized company. To analyze the data advanced SQL formulas (MySQL) were used, together with Google Dashboard for visualizations as well as a written report with the insights from analysis and recommendations for the future. 
 
+------------------------------------------
 
 2. Dataset
 As the source data a sample open-source database from SQL Tutorial https://www.sqltutorial.org/sql-correlated-subquery/ was used (tables and tables' entries). This database was created for the sake of SQL open tutorial, yet it was chosen to use it for personal purpouses from the scratch.
@@ -79,6 +82,7 @@ Key column variables in the dataset include:
   --region_id - unique region identification number in the company
   --region_name
 
+------------------------------------------
 
 3. Root Cause Analysis Process
 The Analysis is aimed to play an important role in the regular HR data evaluation and is presented from the perspective of an HR Management Report.
@@ -92,17 +96,21 @@ The Analysis serves the purpouse of answering the following questions:
 - Is the data complete (no empty cells) and errorproof?
 - Family dependants and what is their relationship with company employees? 
 
-
+------------------------------------------
 
 5. Links
 Solution URLs:
 Project Report:
 Google Sheet Dashboard:
 
+------------------------------------------
+
 6. Built with:
 -MySQL
 -Google Sheets
 -Pivot tables, SQL Aggregations
+
+------------------------------------------
 
 8. Key Insights:
 
