@@ -41,7 +41,7 @@ Table "locations" is linked to the table "countries" via country_id.
 Table "countries" is linked to the table "regions" via region_id.
 
 Key column variables in the dataset include:
--table "employees":
+- table "employees":
   - employe_id - unique employee identification number in the company
   - first_name
   - last_name
