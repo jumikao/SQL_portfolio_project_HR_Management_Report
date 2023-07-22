@@ -18,7 +18,7 @@ This project revolves around Workforce Overview Analysis in a mid-sized company.
 ------------------------------------------
 
 2. Dataset
-As the source data a sample open-source database from SQL Tutorial https://www.sqltutorial.org/sql-correlated-subquery/ was used (tables and tables' entries). This database was created for the sake of SQL open tutorial, yet it was chosen to use it for personal purpouses from the scratch.
+As the source data a sample open-source database from SQL Tutorial https://www.sqltutorial.org/sql-correlated-subquery/ was used (tables and tables' entries). This database was created for the sake of SQL open tutorial, yet it was chosen to be used for personal purpouses, from the scratch.
 Only few employees' entry personal data were slightly modified in the Analysis compared to the original data, as it did not include any people employed in last 20 years. To make it more up to date few "junior positions" with respective salary and hire date were added.
 
 This data set contains an SQL database called HR_project, which consist of 7 tables dedicated to HR data:
