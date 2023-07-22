@@ -42,16 +42,16 @@ Table "countries" is linked to the table "regions" via region_id.
 
 Key column variables in the dataset include:
 -table "employees":
-  -- employe_id - unique employee identification number in the company
-  --first_name
-  --last_name
-  --email
-  --phone_number
-  --hire_date 
-  --job_id
-  --salary
-  --manager_id
-  --department_id
+  - employe_id - unique employee identification number in the company
+  - first_name
+  - last_name
+  - email
+  - phone_number
+  - hire_date
+  - job_id
+  - salary
+  - manager_id
+  - department_id
 -table "jobs":
   --job_id - unique job title identification number in the company
   --job_title 
@@ -100,15 +100,15 @@ The Analysis serves the purpouse of answering the following questions:
 
 5. Links
 Solution URLs:
-Project Report:
-Google Sheet Dashboard:
+- Project Report:
+- Google Sheet Dashboard:
 
 ------------------------------------------
 
 6. Built with:
--MySQL
--Google Sheets
--Pivot tables, SQL Aggregations
+- MySQL
+- Google Sheets
+- Pivot tables, SQL Aggregations
 
 ------------------------------------------
 
