@@ -22,13 +22,13 @@ As the source data a sample open-source database from SQL Tutorial https://www.s
 Only few employees' entry personal data were slightly modified in the Analysis compared to the original data, as it did not include any people employed in last 20 years. To make it more up to date few "junior positions" with respective salary and hire date were added.
 
 This data set contains an SQL database called HR_project, which consist of 7 tables dedicated to HR data:
--- The regions table: stores the data of regions such as Asia, Europe, America, and the Middle East and Africa. The countries are grouped into regions.
--- The countries table: stores the data of countries where the company is doing business.
--- The locations table: stores the location of the departments of the company.
--- The departments table: stores department data.
--- The employees table: stores the personal data of employees.
--- The jobs table: stores the job data including job title and salary range.
--- The dependents table: stores the employee’s dependents.
+- The regions table: stores the data of regions such as Asia, Europe, America, and the Middle East and Africa. The countries are grouped into regions.
+- The countries table: stores the data of countries where the company is doing business.
+- The locations table: stores the location of the departments of the company.
+- The departments table: stores department data.
+- The employees table: stores the personal data of employees.
+- The jobs table: stores the job data including job title and salary range.
+- The dependents table: stores the employee’s dependents.
 
 Relations between tables presents a image called "HR Department" to be found in the folder "Images".
 
