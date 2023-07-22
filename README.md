@@ -52,35 +52,35 @@ Key column variables in the dataset include:
   - salary
   - manager_id
   - department_id
--table "jobs":
-  --job_id - unique job title identification number in the company
-  --job_title 
-  --min_salary - also called "salary floor" as it indicates lowest possible salary range per job title
-  --max_salary - also called "salary ceiling" as it indicates highest possible salary range per job title
--table "dependents":
-  --dependent_id - unique dependent identification number in the company
-  --first_name
-  --last_name
-  --relationship
-  --employee_id
--table "departments":
-  --department_id - unique department identification number in the company
-  --department_name
-  --location_id
--table "locations":
-  --location_id - unique location identification number in the company
-  --street_address
-  --postal_code
-  --city
-  --state_province
-  --country_id
--table "countries":
-  --country_id - unique country identification number in the company
-  --country_name
-  --region_id
--table "regions":
-  --region_id - unique region identification number in the company
-  --region_name
+- table "jobs":
+  - job_id - unique job title identification number in the company
+  - job_title
+  - min_salary - also called "salary floor" as it indicates lowest possible salary range per job title
+  - max_salary - also called "salary ceiling" as it indicates highest possible salary range per job title
+- table "dependents":
+  - dependent_id - unique dependent identification number in the company
+  - first_name
+  - last_name
+  - relationship
+  - employee_id
+- table "departments":
+  - department_id - unique department identification number in the company
+  - department_name
+  - location_id
+- table "locations":
+  - location_id - unique location identification number in the company
+  - street_address
+  - postal_code
+  - city
+  - state_province
+  - country_id
+- table "countries":
+  - country_id - unique country identification number in the company
+  - country_name
+  - region_id
+- table "regions":
+  - region_id - unique region identification number in the company
+  - region_name
 
 ------------------------------------------
 
@@ -99,9 +99,9 @@ The Analysis serves the purpouse of answering the following questions:
 ------------------------------------------
 
 5. Links
-Solution URLs:
-- Project Report:
-- Google Sheet Dashboard:
+- Solution URLs:
+  -   Project Report:
+  -   Google Sheet Dashboard:
 
 ------------------------------------------
 
