@@ -19,7 +19,8 @@ This project revolves around Workforce Overview Analysis in a mid-sized company.
 ------------------------------------------
 
 2. Dataset
-As the source data a sample open-source database from SQL Tutorial https://www.sqltutorial.org/sql-correlated-subquery/ was used (tables and tables' entries). This database was created for the sake of SQL open tutorial, yet it was chosen to be used for personal purpouses, from the scratch.
+
+As the source data a sample open-source database from SQL Tutorial https://www.sqltutorial.org/ was used. This database was created for the sake of SQL open tutorial, yet it was chosen to be used for personal purpouses, from the scratch, taking initial structure of tables and their entries.
 Only few employees' entry personal data were slightly modified in the Analysis compared to the original data, as it did not include any people employed in last 20 years. To make it more up to date few "junior positions" with respective salary and hire date were added.
 
 This data set contains an SQL database called HR_project, which consist of 7 tables dedicated to HR data:
@@ -86,6 +87,7 @@ Key column variables in the dataset include:
 ------------------------------------------
 
 3. Root Cause Analysis Process
+
 - The Analysis is aimed to play an important role in the regular HR data evaluation and is presented from the perspective of an HR Management Report.
 - The Analysis serves the purpouse of answering the following questions:
   - What is the distribiution of employees and employees salaries per region, country, city, department, job role?
@@ -100,6 +102,7 @@ Key column variables in the dataset include:
 ------------------------------------------
 
 5. Links
+
 - Solution URLs:
   -   Project Report:
   -   Google Sheet Dashboard:
@@ -107,6 +110,7 @@ Key column variables in the dataset include:
 ------------------------------------------
 
 6. Built with:
+
 - MySQL
 - Google Sheets
 - Pivot tables, SQL Aggregations
@@ -114,6 +118,8 @@ Key column variables in the dataset include:
 ------------------------------------------
 
 8. Key Insights:
+
+   
 
 
 
