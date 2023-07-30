@@ -13,6 +13,7 @@ Table of contents:
 ------------------------------------------
 
 1. Overview
+
 This project revolves around Workforce Overview Analysis in a mid-sized company. To analyze the data advanced SQL formulas (MySQL) were used, together with Google Dashboard for visualizations as well as a written report with the insights from analysis and recommendations for the future. 
 
 ------------------------------------------
