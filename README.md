@@ -113,10 +113,11 @@ Key column variables in the dataset include:
 
 5. Built with:
 
-- MySQL
-- Google Sheets
-- MS Word
-
+- MySQL: HR Department Advanced SQL Portfolio Project (SQL Text file)
+- Google Sheets: Google Sheets HR Management Report (Dashboard) (Adobe Acrobat Document)
+- MS Word: Project Portfolio HR Management Report (Adobe Acrobat Document)
+- MS Word: HR Management Report Metatable (Google Sheet insert file) (Csv file)
+- Images (Jpg file)
 ------------------------------------------
 
 6. Key Insights:
