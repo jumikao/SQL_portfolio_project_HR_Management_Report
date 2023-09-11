@@ -146,8 +146,8 @@ Key column variables in the dataset include:
 • SQL CREATE DATABASE
 • SQL CREATE TABLE
 • SQL INSERT INTO
-• SQL ALTER TABL E
-•  SQL SELECT
+• SQL ALTER TABLE
+• SQL SELECT
 • SQL DISTINCT
 • SQL LIMIT
 • SQL COMPARISON OPERATORS
@@ -169,14 +169,14 @@ Key column variables in the dataset include:
 • SQL PARTITION BY
 • SQL DATEDIFF()
 • SQL CURDATE()
-• SQL SUBQUE RY
+• SQL SUBQUERY
 • SQL CORRELATED SUBQUERY
 
 
 ------------------------------------------
    
 8. Afterword
-This Portfolio Project aims to prove my analytical, SQL and Google Sheets skills and I hope it to be useful for my future employers to assess my knowledge and qualifications as top! Hope to see you during a direct interview. Kind greetings. ;) 
+- This Portfolio Project aims to prove my analytical, SQL and Google Sheets skills and I hope it to be useful for my future employers to assess my knowledge and qualifications as top! Hope to see you during a direct interview. Kind greetings. ;) 
    
 
 
