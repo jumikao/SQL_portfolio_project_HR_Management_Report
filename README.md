@@ -9,7 +9,7 @@ Table of contents:
 4. Links
 5. Built with
 6. Key Insights
-7. Major SQL statements functions , managing database objects and constraints used
+7. Major SQL statements, functions , managing database objects and constraints used
 8. Afterword
 
 ------------------------------------------
@@ -143,7 +143,7 @@ Key column variables in the dataset include:
 - In terms of workforce demography, it would be recommended that more junior employees were recruited. Currently in the company there are 30 seniors, 7 mids and only 3 juniors.
 
 ------------------------------------------
-7. Major SQL statements functions , managing database objects and constraints used
+7. Major SQL statements, functions , managing database objects and constraints used
 • SQL CREATE DATABASE
 • SQL CREATE TABLE
 • SQL INSERT INTO
